@@ -1,0 +1,38 @@
+#######################################
+
+# Syntax Coloring Map For Ultrasound
+
+#######################################
+
+
+#######################################
+
+
+# Datatypes (KEYWORD1)
+
+
+#######################################
+
+Robot_car_whisker KEYWORD1 Robot_car_whisker
+
+#######################################
+
+# Methods and Functions (KEYWORD2)
+
+#######################################
+
+Left_Right_crash KEYWORD2
+
+Left_crash KEYWORD2
+
+Right_crash KEYWORD2
+
+whisker_stat KEYWORD2
+
+WhiskerPin_init KEYWORD2
+
+#######################################
+
+# Constants (LITERAL1)
+
+#######################################
