@@ -13,7 +13,7 @@
 
 #######################################
 
-Robot_car_whisker KEYWORD1 Robot_car_whisker
+Robot_car KEYWORD1 Robot_car
 
 #######################################
 
@@ -21,15 +21,19 @@ Robot_car_whisker KEYWORD1 Robot_car_whisker
 
 #######################################
 
-Left_Right_crash KEYWORD2
+forward KEYWORD2
 
-Left_crash KEYWORD2
+trunLeft KEYWORD2
 
-Right_crash KEYWORD2
+trunRight KEYWORD2
 
-whisker_stat KEYWORD2
+backward KEYWORD2
 
-WhiskerPin_init KEYWORD2
+STOP KEYWORD2
+
+Start KEYWORD2
+
+Servo_inti_pin KEYWORD2 Servo_inti_pin
 
 #######################################
 
